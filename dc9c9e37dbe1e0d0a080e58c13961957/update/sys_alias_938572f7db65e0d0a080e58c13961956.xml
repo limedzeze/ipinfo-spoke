@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_sech_ipinfo_spok.IPInfo_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfo Alias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>pbarks</sys_created_by>
+        <sys_created_on>2021-01-13 21:46:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>938572f7db65e0d0a080e58c13961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sech_ipinfo_spok.IPInfo_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_sech_ipinfo_spok">dc9c9e37dbe1e0d0a080e58c13961957</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPInfo Spoke">dc9c9e37dbe1e0d0a080e58c13961957</sys_scope>
+        <sys_update_name>sys_alias_938572f7db65e0d0a080e58c13961956</sys_update_name>
+        <sys_updated_by>pbarks</sys_updated_by>
+        <sys_updated_on>2021-01-13 21:46:50</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
